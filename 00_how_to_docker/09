@@ -1,0 +1,3 @@
+docker run -t --interactive debian
+apt-get update -y
+apt-get install build-essential git -y

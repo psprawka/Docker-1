@@ -1,0 +1,2 @@
+docker run -t --rm --interactive alpine /bin/ash
+
